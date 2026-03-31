@@ -1,8 +1,8 @@
 import requests
 import random
 
-TOKEN = "TU_TOKEN"
-CHAT_ID = "TU_CHAT_ID"
+TOKEN = "8759419199:AAGJtdCyd1Q7rUZQ2ZNA3_CuHG_IV-lCElg"
+CHAT_ID = "8440025571"
 
 url = "https://www.temu.com/api/search?keyword=gadgets"
 
